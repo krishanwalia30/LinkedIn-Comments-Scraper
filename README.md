@@ -55,7 +55,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support 📞
 
-For any questions or support, please contact the project maintainer: [Your Email Address]
+For any questions or support, please contact the project maintainer: krishanw30@gmail.com
 
 ---
 
